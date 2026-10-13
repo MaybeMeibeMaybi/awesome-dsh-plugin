@@ -1,0 +1,6 @@
+url: https://github.com/MaybeMeibeMaybi/dsh-harmonyos-hiboard
+name: MaybeMeibeMaybi/dsh-harmonyos-hiboard
+category: notify
+description:
+  en: 'Pushes DeepSeek Harness task results to Huawei HarmonyOS assistant-today (负一屏) as service cards: a hiboard_push tool that posts a Markdown result with an optional schedule_id for grouping, plus hiboard_verify for an end-to-end connection test.'
+  zh: '把 DeepSeek Harness 的任务结果以服务卡片推送到华为鸿蒙负一屏：hiboard_push 工具推送 Markdown 正文并可用 schedule_id 分组，另有 hiboard_verify 做端到端连接测试。'
